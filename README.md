@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Hérick Bittencourt</h1>
-![Header](https://github.com/Acanixz/Acanixz/blob/e9b46148d9346ea86e97a4b19f01b3decf01d801/Header.png)
+![Header](https://github.com/Acanixz/Acanixz/raw/e9b46148d9346ea86e97a4b19f01b3decf01d801/Header.png)
 <h3 align="center">A hobbyist developer currently studying computer science in Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acanixz&label=Profile%20views&color=0e75b6&style=flat" alt="acanixz" /> </p>
