@@ -17,8 +17,6 @@
 
 <p align="center">
   <img 
-    width="240"
-    height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=acanixz&show_icons=true&theme=synthwave&locale=en&layout=compact"
   >
 </p>
