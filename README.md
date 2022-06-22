@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://github.com/Acanixz/Acanixz/raw/e9b46148d9346ea86e97a4b19f01b3decf01d801/Header.png"
+    src="https://raw.githubusercontent.com/Acanixz/Acanixz/main/Header.png"
   >
 </p>
 <h1 align="center">Hello! I'm Hérick Bittencourt</h1>
