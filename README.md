@@ -20,5 +20,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=acanixz&show_icons=true&theme=synthwave&locale=en&layout=compact"
   >
 </p>
-
-![Snake animation](https://github.com/Acanixz/Acanixz/blob/output/github-contribution-grid-snake.svg)
