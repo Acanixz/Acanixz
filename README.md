@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Acanixz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acanixz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Acanixz/Acanixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
