@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Image](https://acanixz-dyn-header.b4a.app/)
+
 <!--
 **Acanixz/Acanixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
