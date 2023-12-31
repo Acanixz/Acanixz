@@ -21,8 +21,8 @@
   -  And hopefully many others in the future 🌠
  
 ## Contact me:
-  - [<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/icons/gmail/gmail.svg' width=2%>](mailto:professional.herickvvb@gmail.com)  Gmail
-  - [<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/icons/discord/discord.svg' width=2%>](https://discord.com/)  Discord (Acanixz)
+  - [<img src='https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/gmail/gmail.svg' width=2%>](mailto:professional.herickvvb@gmail.com)  Gmail
+  - [<img src='https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/discord/discord.svg' width=2%>](https://discord.com/)  Discord (Acanixz)
 
 ## Github stats:
 <picture>
