@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Computer Science student, 4th semester
+  Computer Science student, 5th semester
 </p>
 
 ## About me:
