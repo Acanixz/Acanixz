@@ -6,12 +6,13 @@
 </p>
 
 <p align="center">
-  Computer Science student, 5th semester
+  Computer Science student, 5th semester <br>
+  IT Intern at Portonave
 </p>
 
 ## About me:
   -  👾 Enthusiast for [retro games](https://retroachievements.org/user/Acanixz)
-  -  🎮 Currently developing a multiplayer game (closed source at the moment)
+  -  🎮 Always creating game prototypes, it's a really fun and challenging hobby
   -  🔬 I love experimenting ideas, such as dynamic headers, scrapers, AI, anything!
 
 ## Completed projects:
