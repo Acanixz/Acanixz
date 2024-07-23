@@ -25,8 +25,8 @@
 
 ## Contact me
 
-- [<img src='https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/gmail/gmail.svg' width=2%>](mailto:professional.herickvvb@gmail.com)  Gmail
-- [<img src='https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/discord/discord.svg' width=2%>](https://discord.com/)  Discord (Acanixz)
+- [<img src='https://github.com/dheereshagrwal/colored-icons/blob/75c01d96eb0ea0439a61301cea94de09b2cc987f/public/logos/gmail/gmail.svg' width=2%>](mailto:professional.herickvvb@gmail.com)  Gmail
+- [<img src='https://github.com/dheereshagrwal/colored-icons/blob/75c01d96eb0ea0439a61301cea94de09b2cc987f/public/logos/discord/discord.svg' width=2%>](https://discord.com/)  Discord (Acanixz)
 
 ## Github stats
 
