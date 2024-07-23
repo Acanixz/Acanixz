@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Computer Science student, 5th semester <br>
+  Computer Science student, 6th semester <br>
   IT Intern at Portonave
 </p>
 
