@@ -8,7 +8,6 @@
 ## 👨‍💻 About me
 
 - 🤖 7th-semester Computer Science student
-- 📚 Working as an IT Intern at Portonave
 - 👾 Enthusiast for [retro games](https://retroachievements.org/user/Acanixz)
 
 <details>
