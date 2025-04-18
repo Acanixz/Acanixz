@@ -4,6 +4,7 @@
   Hey there! I'm Hérick, also known as <br>
   <b>Acanixz</b>
 
+  <br>
   <h2>👨‍💻 About me</h2>
   
   <div style="font-family: monospace;">
@@ -11,6 +12,7 @@
     ➤ 👾 Enthusiast for <a href="https://retroachievements.org/user/Acanixz">retro games</a>
   </div>
 
+  <br>
   <h2>📊 Github Stats </h2>
   
   <div>
@@ -50,12 +52,11 @@
   </picture>
   </div>
   
+  <br>
   <h2>📧 Contact me </h2>
   
   <div>
-    <code>
-      Discord: Acanixz <br>
-      Gmail: professional.herickvvb@gmail.com
-    </code>
+    <code>Discord: Acanixz</code> <br>
+    <code>Gmail: professional.herickvvb@gmail.com</code>
   </div> 
 </div>
