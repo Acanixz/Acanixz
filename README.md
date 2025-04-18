@@ -37,18 +37,18 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Acanixz&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=Acanixz&show_icons=true&border_color=1c2b33"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Acanixz&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Acanixz&show_icons=true&border_color=1c2b33" />
   </picture>
   
   <br>
   <!-- Top Languages -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Acanixz&layout=pie&hide=VHDL&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Acanixz&layout=pie&hide=VHDL">
-    <img alt="Acanixz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acanixz&layout=pie&hide=VHDL">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Acanixz&layout=pie&hide=VHDL&border_color=1c2b33">
+    <img alt="Acanixz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acanixz&layout=pie&hide=VHDL&border_color=1c2b33">
   </picture>
   </div>
   
