@@ -8,7 +8,7 @@
   <h2>👨‍💻 About me</h2>
   
   <div style="font-family: monospace;">
-    ➤ 🤖 7th-semester Computer Science student <br>
+    ➤ 🤖 8th-semester Computer Science student <br>
     ➤ 👾 Enthusiast for <a href="https://retroachievements.org/user/Acanixz">retro games</a>
   </div>
 
