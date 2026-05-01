@@ -14,7 +14,6 @@ body:
     attributes:
       label: Project or idea
       description: Give the short version of what you want to work on.
-      placeholder: Example: a profile banner swap, a repo collaboration, or another project idea.
     validations:
       required: true
   - type: textarea
