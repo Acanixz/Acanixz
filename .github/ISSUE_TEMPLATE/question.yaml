@@ -1,0 +1,41 @@
+name: General message
+description: Ask a question or send a public message to Acanixz.
+title: "[Message]: "
+labels: ["Type: Question", "Contact: General"]
+assignees:
+  - Acanixz
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for general questions, comments, or short messages.
+  - type: textarea
+    id: message
+    attributes:
+      label: Your message
+      description: Be clear and specific so I can reply efficiently.
+      placeholder: Type your message here.
+    validations:
+      required: true
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Message topic
+      options:
+        - General question
+        - Collaboration idea
+        - Something else
+  - type: input
+    id: reply-preference
+    attributes:
+      label: Preferred reply location
+      description: Optional. Tell me if you'd rather get a reply on GitHub or Discord.
+      placeholder: GitHub or Discord
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Courtesy
+      description: Please keep messages respectful and public issues free of personal information.
+      options:
+        - label: I understand this is a public issue thread and that EVERYONE can see this message once posted
+          required: true

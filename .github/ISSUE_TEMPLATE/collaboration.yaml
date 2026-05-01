@@ -1,0 +1,40 @@
+name: Collaboration idea
+description: Propose a project, partnership, or other collaboration.
+title: "[Collaboration]: "
+labels: ["Type: Collaboration", "Contact: Collaboration"]
+assignees:
+  - Acanixz
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template if you want to pitch a collaboration, project, or mutual idea.
+  - type: input
+    id: project
+    attributes:
+      label: Project or idea
+      description: Give the short version of what you want to work on.
+      placeholder: Example: a profile banner swap, a repo collaboration, or another project idea.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Share the scope, timeline, or anything else I should know.
+      placeholder: Explain your idea here.
+    validations:
+      required: true
+  - type: input
+    id: links
+    attributes:
+      label: Relevant links
+      description: Optional. Add portfolio, repo, or social links if they help.
+      placeholder: https://...
+  - type: checkboxes
+    id: courtesy
+    attributes:
+      label: Courtesy
+      options:
+        - label: I understand this is a public issue thread and that EVERYONE can see this proposal once posted
+          required: true

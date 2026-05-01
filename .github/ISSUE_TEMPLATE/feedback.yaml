@@ -1,0 +1,36 @@
+name: Profile feedback
+description: Share feedback or suggestions about the README profile page.
+title: "[Feedback]: "
+labels: ["Type: Feedback", "Contact: Profile"]
+assignees:
+  - Acanixz
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for ideas, suggestions, or small improvements to the profile page.
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Your feedback
+      description: Tell me what you like, what feels off, or what could be improved.
+      placeholder: Share your feedback here.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: What does this relate to?
+      options:
+        - Layout or visuals
+        - Links or content
+        - Stats or badges
+        - Overall vibe
+        - Other
+  - type: checkboxes
+    id: courtesy
+    attributes:
+      label: Courtesy
+      options:
+        - label: I understand this is a public issue thread and that EVERYONE can see this feedback once posted
+          required: true
