@@ -1,7 +1,7 @@
 name: Profile feedback
 description: Share feedback or suggestions about the README profile page.
 title: "[Feedback]: "
-labels: ["Type: Feedback", "Contact: Profile"]
+labels: ["Type: Feedback"]
 assignees:
   - Acanixz
 body:

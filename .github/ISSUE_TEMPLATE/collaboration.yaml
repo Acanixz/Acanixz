@@ -1,7 +1,7 @@
 name: Collaboration idea
 description: Propose a project, partnership, or other collaboration.
 title: "[Collaboration]: "
-labels: ["Type: Collaboration", "Contact: Collaboration"]
+labels: ["Type: Collaboration"]
 assignees:
   - Acanixz
 body:

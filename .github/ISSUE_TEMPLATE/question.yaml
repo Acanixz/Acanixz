@@ -1,7 +1,7 @@
 name: General message
 description: Ask a question or send a public message to Acanixz.
 title: "[Message]: "
-labels: ["Type: Question", "Contact: General"]
+labels: ["Type: Question"]
 assignees:
   - Acanixz
 body:
